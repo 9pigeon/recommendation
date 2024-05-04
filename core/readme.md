@@ -3,3 +3,4 @@
 # useage
 
 # settings
+pip install flask
